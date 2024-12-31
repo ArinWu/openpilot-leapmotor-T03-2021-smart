@@ -1,7 +1,3 @@
-
-###下载这个word文档观看
-——————————————————————————————————————————————————————————
-
 # openpilot-leapmotor-T03-2021-smart
 持续更新openpilot 适配 零跑T03 2021 豪华版 opendbc开发 cabana使用 directly open cabana on vmstation
 同步滚动：
